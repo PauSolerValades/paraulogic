@@ -4,4 +4,4 @@ Les paraules les he obtingut del viquiccionari amb el dump d'aquesta pàgina htt
 
 TODO: Filtrar les conjugacions dels verbs i deixar només l'infinitiu
 
-El programa no dona totes les respostes ja que viquiccionari no té tantes paraules com el DIEC. Si algú sabés treure les paraules del DIEC (hi ha una llibreria de per ripejar pàgines web senceres crec però ni sé com es diu) i ho pujés a tope!
+El programa no dona totes les respostes ja que viquiccionari no té tantes paraules com el DIEC. Si algú sabés treure les paraules del DIEC (hi ha una llibreria de per ripejar pàgines web senceres crec però ni sé com es diu) i ho sap fer que em digui a pau.soler.trash@gmail.com!
